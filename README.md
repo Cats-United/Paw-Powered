@@ -7,10 +7,14 @@ I need help with starting up a community.
 
 Needed:
 
-^Signing up/logging in, creating "Members", so they can have an account, and their account won't delet it's self if ^the user logs out.
+^Signing up/logging in, creating "Members", so they can have an account, and their account won't delet it's self if the user logs out.
+
 ^My account, also known as the "Webmaster's" account.
+
 ^comments, which should only work with all types of members, but only works if your signed in.
+
 ^Developers, members who added their own game to fur-powered.
+
 ^Planned: None right now...
 
 Needed when making an account:

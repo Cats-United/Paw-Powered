@@ -5,5 +5,6 @@ Body {
     background-color: darkblue;
 }
 Nav li {
-    display: inline
+    display: inline;
+    font-size: 18px;
 }

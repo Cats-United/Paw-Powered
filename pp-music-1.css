@@ -1,0 +1,15 @@
+.audio-app img {
+    width: 300px;
+    height: 300px;
+    padding: 10px 100px 10px 160px;
+}
+.audio-app audio {
+    padding: 10px 1500px 10px 160px;
+}
+.audio-app .Text p {
+    padding: 10px 200px 10px 200px;
+}
+nav li {
+    display: inline;
+    font-size: 18px;
+}

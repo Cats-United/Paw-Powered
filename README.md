@@ -13,7 +13,7 @@ Needed:
 
 ^comments, which should only work with all types of members, but only works if your signed in.
 
-^Developers, members who added their own game to fur-powered.
+^Developers, members who added their own app to Paw-powered.
 
 ^Planned: None right now...
 
@@ -24,13 +24,13 @@ Needed when making an account:
 ^Email (I never get to see this)
 ^DOB (Date of birth)
 
-Special: DISCLAMER: This is to enhance Paw Powered, and is not importiant. If you wish, you can do these:
+Special: DISCLAMER: This is to enhance Paw-Powered, and is not importiant. If you wish, you can do these:
 
 Celebrate birthdays
 
-More about Fur-Powered:
+More about Paw-Powered:
 
-^Fur-Powered uses "Factories" for Developers and Animators, showing off their games, apps, and animations
+^Paw-Powered uses "Factories" for Developers and Animators, showing off their games, apps, and animations
 
 ^Apps do not fit in games and animations, like art programs.
 
@@ -38,13 +38,16 @@ More about Fur-Powered:
 
 ^Animations are like videos/movies. Making a seiries grant you the abillities to make a artist's lounge(Profile part comming soon!),a special page/place that shows of your animations/series.
 
-^Paw Powered is a JFF project, so no one has to worry about it being taken seriously.
+^Paw-Powered is a JFF project, so no one has to worry about it being taken seriously.
 
-^Paw Powered is open-sourced
+^Paw-Powered is open-sourced
 
 
 Anyone is welcome to join and help!
 
+
+
+#The current build is 0.5, and 0.6 will come soon
 
 
 

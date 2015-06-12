@@ -47,7 +47,7 @@ Anyone is welcome to join and help!
 
 
 
-#The current build is 0.5, and 0.6 will come soon
+#The current build is 0.6, and 0.7 will come soon
 
 
 

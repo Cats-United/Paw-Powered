@@ -7,4 +7,14 @@ Body {
 Nav li {
     display: inline;
     font-size: 18px;
+    margin-left: 60px;
+}
+header img {
+    width: 400px;
+}
+.main {
+    background-color: cadetblue;
+}
+.main .text {
+    text-align: center;
 }

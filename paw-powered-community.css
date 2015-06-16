@@ -1,20 +1,19 @@
 header img {
-    width: 700px;
+    width: 400px;
 }
 Body {
-    background-color: darkblue;
+    background-image: url(SSTW3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 Nav li {
     display: inline;
     font-size: 18px;
     margin-left: 60px;
 }
-header img {
-    width: 400px;
-}
 .main {
     background-color: cadetblue;
 }
-.main .text {
+body {
     text-align: center;
 }

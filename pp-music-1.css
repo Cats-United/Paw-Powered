@@ -3,13 +3,22 @@
     height: 300px;
     padding: 10px 100px 10px 160px;
 }
-.audio-app audio {
-    padding: 10px 1500px 10px 160px;
+header img {
+    width: 400px;
 }
-.audio-app .Text p {
-    padding: 10px 200px 10px 200px;
+Body {
+    background-image: url(My%20Future%20Self%20background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-nav li {
+Nav li {
     display: inline;
     font-size: 18px;
+    margin-left: 60px;
+}
+.main {
+    background-color: cadetblue;
+}
+body {
+    text-align: center;
 }
